@@ -1,0 +1,14 @@
+{
+  "name": "flexbox-study",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "node-sass": "^4.12.0",
+    "parcel-bundler": "^1.12.3"
+  },
+  "scripts": {
+    "dev": "parcel watch index.html --no-cache",
+    "build": "parcel build index.html"
+  }
+}
