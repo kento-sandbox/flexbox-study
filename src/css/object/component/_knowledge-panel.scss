@@ -1,0 +1,60 @@
+.c-knowledge-panel__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: stretch;
+  padding: 13px 16px 11px;
+  font-size: 16px;
+  color: #fff;
+  background-color: #8e3a1e;
+  border-radius: 8px 8px 0 0;
+}
+
+.c-knowledge-about__title {
+  line-height: 20px;
+}
+
+.c-knowledge-about__sub {
+  font-size: 14px;
+  color: rgba(255, 255, 255, 0.7);
+  line-height: 20px;
+}
+
+.c-knowledge-share {
+  padding: 8px;
+  font-size: 20px;
+}
+
+// css/component/_query-ad.scss
+.c-query-ad__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.c-query-ad__badge {
+  padding: 0 3px 0 2px;
+  margin: 0 5px 0 0;
+  font-size: 11px;
+  color: #006621;
+  border: 1px solid #006621;
+  border-radius: 3px;
+}
+
+.c-query-ad__info {
+  width: 12px;
+  height: 12px;
+  color: #ccc;
+}
+
+.c-query-ad__item {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 10px 0;
+  color: rgba(0, 0, 0, 0.54);
+}
+
+.c-query-ad__item-value {
+  font-weight: bold;
+  color: #222;
+}
