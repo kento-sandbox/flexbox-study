@@ -1,0 +1,25 @@
+.c-logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  &__text {
+    font-size: 30px;
+
+    &--blue {
+      color: #4169E1;
+    }
+
+    &--red {
+      color: red;
+    }
+
+    &--yellow {
+      color: #FFD700;
+    }
+
+    &--green {
+      color: green;
+    }
+  }
+}
